@@ -50,7 +50,7 @@ const config = {
       position: 'Beta Tester, Designer, Transcriptor',
       from: '2022',
       to: 'Present',
-      companyLink: 'https://upwork.com',
+      companyLink: 'https://www.upwork.com/freelancers/~01102a92181a915985',
     },
     {
       company: 'Ministry of Agriculture and Livestock - Madagascar',
@@ -164,11 +164,11 @@ const config = {
 
     // Custom theme
     customTheme: {
-      primary: '#2A5159',
-      secondary: '#8C4227',
+      primary: '#85A60D',
+      secondary: '#D9C2AD',
       accent: '#e8d03a',
-      neutral: '#85A60D',
-      'base-100': '#D9C2AD',
+      neutral: '##8C4227',
+      'base-100': '#2A5159',
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },
