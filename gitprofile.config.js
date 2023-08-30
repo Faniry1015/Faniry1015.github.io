@@ -88,10 +88,16 @@ const config = {
     {
       title: 'Design communication support',
       description:
-        'banner, rollup and flyers',
-      imageUrl: 'https://drive.google.com/file/d/1IeTmOuVjwpdOTHXUeV1-TVxn4t6B887v/view?usp=drive_link',
-      link: 'https://drive.google.com/drive/folders/1Hjqygwc9eXmxPjwyZZmxNMSbxeKxS0p-?usp=drive_link',
-    },
+        'Banner for Ministry of Agriculture and Livestock in 2022',
+      imageUrl: 'https://postimg.cc/3kh2hhZg',
+      link: 'https://postimg.cc/3kh2hhZg',
+    },{
+      title: 'Design communication support',
+      description:
+        'Banner, rollup and flyers for Ministry of Agriculture and Livestock in 2019',
+      imageUrl: 'https://postimg.cc/Pp7mn86x',
+      link: 'https://postimg.cc/Pp7mn86x',
+    }
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
