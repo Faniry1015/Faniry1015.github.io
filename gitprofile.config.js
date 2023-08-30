@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JavaScript',
@@ -85,20 +85,13 @@ const config = {
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
-    // {
-    //   title: 'Project Name',
-    //   description:
-    //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-    //   imageUrl: 'https://via.placeholder.com/250x250',
-    //   link: 'https://example.com',
-    // },
-    // {
-    //   title: 'Project Name',
-    //   description:
-    //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-    //   imageUrl: 'https://via.placeholder.com/250x250',
-    //   link: 'https://example.com',
-    // },
+    {
+      title: 'Design communication support',
+      description:
+        'banner, rollup and flyers',
+      imageUrl: 'https://drive.google.com/file/d/1I_KvV9nHC_Ol7rldm7j7YycJQsHdv1M-/view?usp=drive_link',
+      link: 'https://drive.google.com/drive/folders/1Hjqygwc9eXmxPjwyZZmxNMSbxeKxS0p-?usp=drive_link',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
@@ -164,9 +157,9 @@ const config = {
 
     // Custom theme
     customTheme: {
-      primary: '#85A60D',
+      primary: '#e8d03a',
       secondary: '#D9C2AD',
-      accent: '#e8d03a',
+      accent: '#85A60D',
       neutral: '##8C4227',
       'base-100': '#2A5159',
       '--rounded-box': '3rem',
@@ -179,7 +172,7 @@ const config = {
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a>`,
+    >GitProfile</a> and customized by <a class="text-primary" href="https://github.com/Faniry1015" target="_blank" rel="noreferrer">Faniriantsoa</a>. Copyright © 2023` ,
 };
 
 export default config;
