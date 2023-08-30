@@ -163,10 +163,10 @@ const config = {
 
     // Custom theme
     customTheme: {
-      primary: '#e8d03a',
+      primary: '#85A60D',
       secondary: '#D9C2AD',
-      accent: '#85A60D',
-      neutral: '##8C4227',
+      accent: '#e8d03a',
+      neutral: '#8C4227',
       'base-100': '#2A5159',
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
