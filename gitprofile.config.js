@@ -71,7 +71,7 @@ const config = {
   education: [
     {
       institution: 'SAYNA',
-      degree: 'Degree',
+      degree: 'Front-end Developer',
       from: 'February 2023',
       to: 'Present',
     },
