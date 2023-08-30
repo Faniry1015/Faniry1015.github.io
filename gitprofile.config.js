@@ -47,7 +47,7 @@ const config = {
   experiences: [
     {
       company: 'Upwork',
-      position: 'Freelance',
+      position: 'Beta Tester, Transcriptor',
       from: '2022',
       to: 'Present',
       companyLink: 'https://upwork.com',
