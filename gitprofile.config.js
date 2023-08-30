@@ -89,14 +89,14 @@ const config = {
       title: 'Design communication support',
       description:
         'Banner for Ministry of Agriculture and Livestock in 2022',
-      imageUrl: 'https://i.postimg.cc/zvzpWCKn/D-pliant-DRAE-2022.jpg',
-      link: 'https://i.postimg.cc/zvzpWCKn/D-pliant-DRAE-2022.jpg',
+      imageUrl: 'https://i.postimg.cc/T3L0rYLH/Banderole-DRAE-Vak-2022.jpg',
+      link: 'https://i.postimg.cc/T3L0rYLH/Banderole-DRAE-Vak-2022.jpg',
     },{
       title: 'Design communication support',
       description:
         'Banner, rollup and flyers for Ministry of Agriculture and Livestock in 2019',
-      imageUrl: 'https://postimg.cc/Pp7mn86x',
-      link: 'https://postimg.cc/Pp7mn86x',
+      imageUrl: 'https://i.postimg.cc/zvzpWCKn/D-pliant-DRAE-2022.jpg',
+      link: 'https://i.postimg.cc/zvzpWCKn/D-pliant-DRAE-2022.jpg',
     }
   ],
   // Display blog posts from your medium or dev account. (Optional)
