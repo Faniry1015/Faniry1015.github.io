@@ -71,13 +71,13 @@ const config = {
   education: [
     {
       institution: 'SAYNA',
-      degree: 'Certificate',
-      from: 'Février 2023',
-      to: 'Présent',
+      degree: 'Degree',
+      from: 'February 2023',
+      to: 'Present',
     },
     {
-      institution: 'Université d\'Antananarivo',
-      degree: 'Ingénieur Agronome',
+      institution: 'University of Antananarivo',
+      degree: 'Agronomist Engineer',
       from: '2009',
       to: '2014',
     },
