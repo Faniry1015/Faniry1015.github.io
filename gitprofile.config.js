@@ -4,14 +4,14 @@ const config = {
   github: {
     username: 'Faniry1015', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 5, // How many projects to display.
+    limit: 15, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'Faniriantsoa-RANDRIAHARIMINO',
+    linkedin: 'https://www.linkedin.com/in/faniriantsoa/',
     twitter: '',
     mastodon: '',
     facebook: '',
@@ -36,7 +36,6 @@ const config = {
     'JavaScript',
     'React.js',
     'Git',
-    'Docker',
     'CSS',
   ],
   experiences: [
@@ -55,20 +54,20 @@ const config = {
       companyLink: 'https://minae.gov',
     },
   ],
-  /* certifications: [
+  certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'English for Career Development',
+      body: "The owner of this badge successfully completed the Online Professional English Network's (OPEN) 2023 English for Career Development massive open online course (MOOC). OPEN is sponsored by the U.S. Department of State, Bureau of Educational and Cultural Affairs, with funding provided by the U.S. government. English for Career Development is designed for high-beginner to low-intermediate non-native English speakers.",
+      year: 'Février 2023',
+      link: 'https://api.badgr.io/public/assertions/GhDtkkZ4Q8iPU8ozdNLCYg?identity__email=frandriaharimino%40gmail.com'
     },
-  ], */
+  ],
   education: [
     {
       institution: 'SAYNA',
       degree: 'Certificate',
       from: 'Février 2023',
-      to: 'Octobre 2023',
+      to: 'Présent',
     },
     {
       institution: 'Université d\'Antananarivo',
