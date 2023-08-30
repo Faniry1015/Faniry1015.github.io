@@ -86,15 +86,15 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Design communication support',
+      title: 'Design',
       description:
-        'Banner for Ministry of Agriculture and Livestock in 2022',
+        'Communication support : banner and flyers for Ministry of Agriculture and Livestock in 2022',
       imageUrl: 'https://i.postimg.cc/T3L0rYLH/Banderole-DRAE-Vak-2022.jpg',
       link: 'https://i.postimg.cc/T3L0rYLH/Banderole-DRAE-Vak-2022.jpg',
     },{
-      title: 'Design communication support',
+      title: 'Design',
       description:
-        'Banner, rollup and flyers for Ministry of Agriculture and Livestock in 2019',
+        'Communication support : banner, rollup and flyers for Ministry of Agriculture and Livestock in 2019',
       imageUrl: 'https://i.postimg.cc/zvzpWCKn/D-pliant-DRAE-2022.jpg',
       link: 'https://i.postimg.cc/zvzpWCKn/D-pliant-DRAE-2022.jpg',
     }
