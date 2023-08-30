@@ -89,8 +89,8 @@ const config = {
       title: 'Design communication support',
       description:
         'Banner for Ministry of Agriculture and Livestock in 2022',
-      imageUrl: 'https://postimg.cc/3kh2hhZg',
-      link: 'https://postimg.cc/3kh2hhZg',
+      imageUrl: 'https://i.postimg.cc/zvzpWCKn/D-pliant-DRAE-2022.jpg',
+      link: 'https://i.postimg.cc/zvzpWCKn/D-pliant-DRAE-2022.jpg',
     },{
       title: 'Design communication support',
       description:
