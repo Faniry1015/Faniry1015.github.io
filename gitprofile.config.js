@@ -3,7 +3,7 @@
 const config = {
   github: {
     username: 'Faniry1015', // Your GitHub org/user name. (Required)
-    sortBy: 'stars', // stars | updated
+    sortBy: 'updated', // stars | updated
     limit: 15, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
@@ -47,7 +47,7 @@ const config = {
   experiences: [
     {
       company: 'Upwork',
-      position: 'Beta Tester, Transcriptor',
+      position: 'Beta Tester, Designer, Transcriptor',
       from: '2022',
       to: 'Present',
       companyLink: 'https://upwork.com',
@@ -115,7 +115,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'customTheme',
+    defaultTheme: 'procyon',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -164,11 +164,11 @@ const config = {
 
     // Custom theme
     customTheme: {
-      primary: '#fc055b',
-      secondary: '#219aaf',
+      primary: '#2A5159',
+      secondary: '#8C4227',
       accent: '#e8d03a',
-      neutral: '#2A2730',
-      'base-100': '#E3E3ED',
+      neutral: '#85A60D',
+      'base-100': '#D9C2AD',
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },
