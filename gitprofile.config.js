@@ -90,13 +90,13 @@ const config = {
       description:
         'Communication support : banner and flyers for Ministry of Agriculture and Livestock in 2022',
       imageUrl: 'https://i.postimg.cc/T3L0rYLH/Banderole-DRAE-Vak-2022.jpg',
-      link: 'https://i.postimg.cc/T3L0rYLH/Banderole-DRAE-Vak-2022.jpg',
+      link: 'https://i.postimg.cc/Gm2nFYdJ/Banderole-DRAE-Vak-2022.jpg',
     },{
       title: 'Design',
       description:
         'Communication support : banner, rollup and flyers for Ministry of Agriculture and Livestock in 2019',
       imageUrl: 'https://i.postimg.cc/zvzpWCKn/D-pliant-DRAE-2022.jpg',
-      link: 'https://i.postimg.cc/zvzpWCKn/D-pliant-DRAE-2022.jpg',
+      link: 'https://i.postimg.cc/mZXwcFpG/D-pliant-DRAE-2022.jpg',
     }
   ],
   // Display blog posts from your medium or dev account. (Optional)
