@@ -36,7 +36,13 @@ const config = {
     'JavaScript',
     'React.js',
     'Git',
+    'HTML',
+    'WordPress',
     'CSS',
+    'Sass',
+    'Bootstrap',
+    'Figma',
+    'Adobe Creative Suite'
   ],
   experiences: [
     {
@@ -47,9 +53,9 @@ const config = {
       companyLink: 'https://upwork.com',
     },
     {
-      company: 'Ministère de l\'Agriulture et de l\'Elevage',
-      position: 'Chef de Service du Système d\'Information et du Suivi-Evaluation',
-      from: 'Mars 2017',
+      company: 'Ministry of Agriculture and Livestock - Madagascar',
+      position: 'Head of the Service of Monitoring and Evaluation',
+      from: 'March 2017',
       to: 'Present',
       companyLink: 'https://minae.gov',
     },
@@ -109,11 +115,11 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'synthwave',
+    defaultTheme: 'customTheme',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
