@@ -86,13 +86,26 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Design',
+      title: 'Design, HTML, CSS and JS',
+      description:
+        'Create a prototype for a website dedicated to the Marvel hero Black Panther as a tribute to actor Chadwick Boseman. The website was later developed using HTML/CSS and JS. You can view the prototype at the following link: https://www.figma.com/proto/RMqxHCO54BVhwlcbwyTIIv/SAYNA-UXUI-DESIGNPANTHER?type=design&node-id=96-371&t=tPnknqL065w1ULCc-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=34%3A97&mode=design',
+      imageUrl: 'https://i.postimg.cc/8z1y04KX/Pantherhome1.png',
+      link: 'https://github.com/Faniry1015/SAYNA-JSTSCANVAS-PANTHER-072022.git'
+    },
+    {
+      title: 'UX/UI Design',
+      description:'Replicate a mockup of a mobile game dashboard.',
+      imageUrl: 'https://i.postimg.cc/grFf94Pn/Sayna-mobile.png',
+      link: 'https://www.figma.com/proto/l2eRUHlLil3XyJIE1xoTKR/SAYNA-UXUI-DESIGNMOBILE?type=design&t=hQSVN79MhsohKA42-1&scaling=min-zoom&page-id=0%3A1&node-id=8-3&mode=design',
+    },
+    {
+      title: 'Graphic Design',
       description:
         'Communication support : banner and flyers for Ministry of Agriculture and Livestock in 2022',
       imageUrl: 'https://i.postimg.cc/T3L0rYLH/Banderole-DRAE-Vak-2022.jpg',
       link: 'https://i.postimg.cc/Gm2nFYdJ/Banderole-DRAE-Vak-2022.jpg',
     },{
-      title: 'Design',
+      title: 'Graphic Design',
       description:
         'Communication support : banner, rollup and flyers for Ministry of Agriculture and Livestock in 2019',
       imageUrl: 'https://i.postimg.cc/zvzpWCKn/D-pliant-DRAE-2022.jpg',
