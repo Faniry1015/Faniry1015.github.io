@@ -88,7 +88,7 @@ const config = {
     {
       title: 'Design, HTML, CSS and JS',
       description:
-        'Create a prototype for a website dedicated to the Marvel hero Black Panther as a tribute to actor Chadwick Boseman. The website was later developed using HTML/CSS and JS. You can view the prototype at the following link: https://www.figma.com/proto/RMqxHCO54BVhwlcbwyTIIv/SAYNA-UXUI-DESIGNPANTHER?type=design&node-id=96-371&t=tPnknqL065w1ULCc-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=34%3A97&mode=design',
+        'Create a prototype for a website dedicated to the Marvel hero Black Panther as a tribute to actor Chadwick Boseman. The website was later developed using HTML/CSS and JS. You can download and view the website in my GitHub repo',
       imageUrl: 'https://i.postimg.cc/8z1y04KX/Pantherhome1.png',
       link: 'https://github.com/Faniry1015/SAYNA-JSTSCANVAS-PANTHER-072022.git'
     },
